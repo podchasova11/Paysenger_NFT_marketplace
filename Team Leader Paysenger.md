@@ -1,4 +1,5 @@
 ### Team Leader Paysenger Inc. о руководстве разработкой мобильных приложений
+https://ixbt.pro/articles/2023/12/27/reakciia-na-kakie-libo-izmeneniia-poroi-vaznee-sledovaniia-planu-roman-koropec-team-leader-payseng.html
 
 Paysenger – это сервис для монетизации своей аудитории. Инфлюенсеры, блогеры и эксперты в различных областях могут создавать контент по запросу пользователей, получая за это вознаграждения. Роман Коропец, Team Leader Paysenger Inc., рассказал о руководстве разработкой мобильных приложений
 
