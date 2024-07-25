@@ -1,3 +1,4 @@
+2023-12-27
 ### Team Leader Paysenger Inc. о руководстве разработкой мобильных приложений
 https://ixbt.pro/articles/2023/12/27/reakciia-na-kakie-libo-izmeneniia-poroi-vaznee-sledovaniia-planu-roman-koropec-team-leader-payseng.html
 
